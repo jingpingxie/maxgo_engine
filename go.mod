@@ -1,4 +1,4 @@
-module github.com/maxgo
+module github.com/jingpingxie/maxgo
 
 go 1.18
 
